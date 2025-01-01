@@ -15,7 +15,7 @@ A real-time object detection application for Raspberry Pi using YOLOv8 and MQTT,
 ## Requirements
 
 ### Hardware
-- Raspberry Pi (tested on Raspberry Pi 4)
+- Raspberry Pi (tested on Raspberry Pi 4&5, minimum 4gb RAM)
 - Raspberry Pi Camera Module
 - Internet connection for MQTT (if using remote broker)
 
