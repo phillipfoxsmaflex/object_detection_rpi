@@ -1,0 +1,7 @@
+{
+    "mqtt_broker": "192.168.178.85",
+    "mqtt_port": 1883,
+    "mqtt_topic": "detections",
+    "model_path": "models/yolov8n.pt",
+    "conf_threshold": 0.25
+}
