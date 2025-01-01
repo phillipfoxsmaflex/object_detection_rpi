@@ -30,7 +30,7 @@ A real-time object detection application for Raspberry Pi using YOLOv8 and MQTT,
 1. Clone the repository:
 ```bash
 git clone https://github.com/phillipfoxsmaflex/object_detection_rpi.git
-cd object_detection_rpi
+cd object_detection_rpi/raspberry-detection
 ```
 
 2. Run the installation script:
