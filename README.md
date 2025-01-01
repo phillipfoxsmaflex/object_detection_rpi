@@ -77,7 +77,8 @@ The camera is configured to use a resolution of 640x480 by default. You can modi
 
 1. Normal start:
 ```bash
-./start.sh
+sudo chmod +x start_app.sh
+./start_app.sh
 ```
 
 2. Debug mode (with logging):
