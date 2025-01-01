@@ -72,7 +72,7 @@ wget https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8n.pt -
 
 # 7. Python-Umgebung einrichten
 log "Erstelle virtuelle Python-Umgebung..."
-python3 -m venv $PROJECT_DIR/venv
+python3 -m venv $PROJECT_DIR/venv --system-site-packages 
 source $PROJECT_DIR/venv/bin/activate
 
 # 8. Python-Pakete installieren
